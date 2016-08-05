@@ -1,2 +1,2 @@
 # ProgrammingPracticum
-TCSS 305
+Projects for TCSS 305

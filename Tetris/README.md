@@ -5,4 +5,5 @@ Assignment 6 – Tetris
 Description: <br>
 Write a complete, playable tetris game <br>
 Provided code is a set of classes to represent all game pieces and the game board <br>
+Implement Observer Design Pattern <br>
 <p>

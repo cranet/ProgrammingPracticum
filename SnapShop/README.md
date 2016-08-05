@@ -5,6 +5,6 @@ Assignment 4 – Snap Shop
 Description: <br>
 Write the graphical user interface (GUI) for an application that displays and manipulates images <br>
 Image processing classes have been provided <br>
-GUI must have buttons for each image processing functin <br>
+GUI must have buttons for each image processing function <br>
 Write functional Open, Save, and Close buttons <br>
 <p>

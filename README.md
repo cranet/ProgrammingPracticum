@@ -23,9 +23,9 @@ Projects for TCSS 305
 * Coded GUI with full menu that provides a variety of options such as brush color
 * User can draw with the following tools: Pencil, Line, Rectangle, Ellipse
 * Correctly implemented Observer Design Pattern
-* Correclty implemneted Model View Controller Design Pattern
+* Correclty implemented Model View Controller Design Pattern
 
 ### Project 6 - Tetris
 * Coded complete front end
 * Correctly implemented Observer Design Pattern
-* Correclty implemneted Model View Controller Design Pattern
+* Correclty implemented Model View Controller Design Pattern
